@@ -137,6 +137,4 @@ carecompanion-ai/
 * [Ultralytics YOLOv8](https://github.com/ultralytics/ultralytics) – Object detection
 * [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) – Text recognition
 
----
-Do you want me to do that?
-```
+

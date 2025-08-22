@@ -1,5 +1,3 @@
-Here’s a professional and structured `README.md` based on your Flask + React AI Vision Console project:
-
 ````markdown
 # AI Vision Console
 
